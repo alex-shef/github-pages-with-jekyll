@@ -6,12 +6,6 @@ description: > # this means to ignore newlines until "baseurl:"
   Experience working with Django framework, MySQL, PostgreSQL, Docker, HTML+CSS.
 
 # social links
-# github_username:  alex-shef # DO NOT include the @ character, or else the build will fail!
+github_username:  alex-shef # DO NOT include the @ character, or else the build will fail!
 
-minima:
-  social_links:
-    github: alex-shef
-    linkedin: shevchuk-aleksei
-    telegram: alexshf
-  
 show_excerpts: true # set to false to remove excerpts on the homepage
