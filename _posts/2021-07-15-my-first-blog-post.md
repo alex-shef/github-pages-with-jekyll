@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my page"
+title: "My 1st post"
 date: 2021-07-15
 ---
 
