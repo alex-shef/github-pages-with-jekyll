@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
 minima:
   social_links:
     github: alex-shef
-    linkedin: shevchuk-aleksei
-    telegram: alexshf
+    linkedin: aleksei-sh
+    telegram: a1eksf
 
 show_excerpts: true # set to false to remove excerpts on the homepage
