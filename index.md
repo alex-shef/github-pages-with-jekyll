@@ -5,3 +5,4 @@ Some of my training projects:
 * [Local Library website](https://github.com/alex-shef/django_local_library)
 * [Telegram bot that sends notifications about the verification of works](https://replit.com/@alexshef/devman-bot)
 * [Scrapper](https://github.com/alex-shef/Scrapper)
+* [Little game on Asyncio and Canvas libraries](https://replit.com/@alexshef/Curses)
