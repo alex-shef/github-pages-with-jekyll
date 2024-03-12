@@ -7,3 +7,4 @@ Some of my training projects:
 * [Scrapper](https://github.com/alex-shef/Scrapper)
 * [A little space game with keyboard controls (arrows and spacebar), \
   based on the Asyncio and Canvas libraries](https://replit.com/@alexshef/Curses)
+* [FastAPI app with OAuth2 system roles and JWT session tokens](https://github.com/alex-shef/FastAPI_Stepik)
