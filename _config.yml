@@ -3,7 +3,7 @@ theme: minima
 author: Aleksei Shevchuk
 email: alexei.shef@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Experience working with Django, MySQL, PostgreSQL, Docker, HTML+CSS, FastAPI.
+  Experience working with Django, MySQL, PostgreSQL, Docker, HTML+CSS, FastAPI, AsyncIO, Unit testing, Terraform, K8s, Jenkins, ArgoCD, Grafana, GCP.
 
 # social links
 # github_username:  alex-shef # DO NOT include the @ character, or else the build will fail!
