@@ -6,5 +6,5 @@ Some of my training projects:
 * [Telegram bot that sends notifications about the verification of works](https://replit.com/@alexshef/devman-bot)
 * [Scrapper](https://github.com/alex-shef/Scrapper)
 * [A little space game with keyboard controls (arrows and spacebar), \
-  based on the Asyncio and Canvas libraries](https://replit.com/@alexshef/Curses)
+  based on the AsyncIO and Curses libraries](https://replit.com/@alexshef/Curses)
 * [FastAPI app with OAuth2 system roles and JWT session tokens](https://github.com/alex-shef/FastAPI_Stepik)
