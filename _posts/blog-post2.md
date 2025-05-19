@@ -1,0 +1,33 @@
+---
+title: "Post #2"
+---
+
+I developed the user-management app with social network functionality based on microservices.
+
+*User Management Service*
+
+* Built with FastAPI, PostgreSQL, Redis, and RabbitMQ.
+* Implemented OAuth2 authentication with role-based access control and JWT (access/refresh) tokens.
+* Integrated Redis to support token blacklisting and RabbitMQ for password reset events.
+* Configured Poetry for dependency management and added Ruff, Mypy, and pre-commit hooks for code quality.
+* Wrote asynchronous unit and integration tests with 95% coverage.
+* Enabled file storage support via AWS S3.
+* Set up GitHub Actions for CI: linting, testing.
+
+*Notification Service*
+
+* Built with Python, MongoDB, RabbitMQ, and AWS SES for email communication.
+* Used Poetry, Ruff, Mypy, and pre-commit.
+* Achieved 93% async test coverage and set up CI with GitHub Actions.
+
+*Innotter Service*
+
+* Built with Django and MySQL.
+* Integrated Celery for background task processing and AWS S3 for media storage.
+* Added Swagger/OpenAPI documentation for API clarity.
+* Used Poetry, Ruff, Mypy, and pre-commit.
+* Achieved 93% test coverage and set up CI with GitHub Actions.
+
+*Frontend*
+
+* Built the client-side application using ReactJS, Redux, and TailwindCSS for responsive design and state management.
