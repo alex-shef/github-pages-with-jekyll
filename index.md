@@ -1,6 +1,7 @@
 # Welcome to my GitHub Page. I am a Software Engineer(Python, ReactJS) | DevOps Engineer
 
 Some of my projects:
+* [Infrastructure for the User-management app (Terraform + Jenkins + Minikube)](https://github.com/alex-shef/innowise-devops/tree/dev)
 * [Microservice for Pages/Posts functionality(Django + MySQL + Redis + Celery)](https://github.com/alex-shef/innotter/tree/dev)
 * [Notification microservice(RabbitMQ + MongoDB + AWS_SES)](https://github.com/alex-shef/notification-service/tree/dev)
 * [User-management microservice(FastAPI + PostgreSQL + Redis)](https://github.com/alex-shef/user-management-service/tree/dev)
